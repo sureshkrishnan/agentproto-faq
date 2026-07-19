@@ -79,7 +79,7 @@ DAWN is anothet WG-forming BoF at this IETF meeting that is focused on agent, wo
 Agent identity and authorization are expected to build on work coming out of WIMSE (workload/agent identity) and OAuth. The goal is to enable an agent to create an independent identity and to obtain and exchange access tokens with fine-grained, behavior-driven scopes bound to the specific operations it is permitted to perform on a user's behalf. Importantly, any resulting changes or extensions to OAuth and WIMSE are expected to be worked on **in those groups**, not inside agentproto. This group would raise requirements; those groups decide.
 
 
-### How does agentproto coordinate with these other groups in practice?
+### How does agentproto intend to coordinate with these other groups in practice?
 
 The intended coordination model is unidirectional: if agentproto participants identify the need for changes to another group's protocols, they need to bring these requests to the relevant WGs and the other WG decides how to deal with those requests. 
 
