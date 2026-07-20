@@ -72,7 +72,7 @@ The framework deliberately treats identity, authorization, discovery, and transp
 
 ### What is the relationship to the DAWN BoF?
 
-DAWN is anothet WG-forming BoF at this IETF meeting that is focused on agent, workload, and entity discovery. Discovery of AI agents is explicitly out of scope for agentproto. We reference and coordinate with DAWN's work (and incorporate it into the framework), but actual work on discovery is deferred to dawn.
+DAWN is another WG-forming BoF at this IETF meeting. It is focused on agent, workload, and entity discovery. Agentproto intends to coordinate with DAWN and incorporate discovery mechanisms from DAWN into the agentproto framework. Actual work on new discovery mechanisms is deferred to DAWN.
 
 ### What about WIMSE and OAuth?
 
