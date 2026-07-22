@@ -89,4 +89,11 @@ The expected steps are (1) identify a gap, (2) present the requirement to the re
 
 MCP, A2A, and the AGNTCY framework are being developed in other venues (including the Linux Foundation). This work is not intended to compete with them but rather to provide an interoperable, standardized substrate that such frameworks can build on.
 
+## Ecosystem
+
+### Who would use agentproto? or who is asking for agentproto?
+
+Agentproto is aiming to support diverse ecosystems, including web, enterprise, and mobile environments. It addresses scenarios where agents are deployed across multiple domains and require interoperable communication capabilities, both within a single ecosystem and across heterogeneous ecosystems.
+
+
 
