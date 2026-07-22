@@ -42,6 +42,8 @@ One example that has been repeatedly brought up is a multi-step, multi-modal age
 
 None of the existing IETF transports natively manage agent context across interrupts and reconnects, or coordinate multi-entity (agent/tool/user) interactions. That is the gap the proposed session work targets.
 
+A gap analysis can be found here : https://www.ietf.org/archive/id/draft-yao-catalist-problem-space-analysis-01.html
+
 ### Why is multimodal support required?
 
 A single agent interaction can mix very different traffic with very different latency needs simultaneously:
