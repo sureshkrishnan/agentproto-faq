@@ -13,7 +13,7 @@ Please read it alongside the primary materials:
 
 ### What is this BoF about?
 
-AI agents increasingly need to communicate with each other and with humans and tools across the Internet. Today they do so over a patchwork of vendor- and framework-specific mechanisms. The agentproto BoF intends to define open, interoperable protocol building blocks that enable agents and tools from different vendors to communicate together and with humans across administrative and trust boundaries.
+AI agents increasingly need to communicate with each other and with humans and tools across the Internet. Today they do so over a patchwork of vendor- and framework-specific mechanisms. The agentproto BoF intends to define open, interoperable protocol building blocks that enable agents and tools from different vendors to communicate with each other and with humans across administrative and trust boundaries.
 
 ### What is an "AI agent" in this context?
 
